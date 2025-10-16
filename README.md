@@ -22,14 +22,9 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Program:
 ```
-<img width="1251" height="267" alt="{B0432F15-8B72-45B7-8908-6750AB296A2E}" src="https://github.com/user-attachments/assets/dbd97b82-dc6f-433c-804b-1dedad532878" />
-
-
-
-
-
 
 ```
+<img width="1251" height="267" alt="{B0432F15-8B72-45B7-8908-6750AB296A2E}" src="https://github.com/user-attachments/assets/dbd97b82-dc6f-433c-804b-1dedad532878" />
 ## Output:
 
 ### Insert your output
